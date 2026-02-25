@@ -1,3 +1,6 @@
 [submodule "clash-for-linux-install"]
 	path = clash-for-linux-install
 	url = git@github.com:Loren3Ben/clash-for-linux-install.git
+[submodule "labelme"]
+	path = labelme
+	url = git@github.com:wkentaro/labelme.git
